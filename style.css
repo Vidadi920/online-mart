@@ -1,0 +1,28 @@
+body{
+    
+}
+
+.block{
+  width: 400px;
+   
+   
+}
+.user-img{
+   width: 250px;
+   height: 250px;
+   margin: 79px;
+}
+:root{
+   --color-primary: #ffffff;
+   --color-secondary: #ffeb39;
+   --color-gray: #4b4c50;
+   --color-dark-gray: #737373;
+   --color-black: #000000;
+   --color-light-gray: #272830;
+   --color-dark-blue: #1e2830;
+}
+.ap{
+   text-align: center;
+   margin: 0,auto;
+
+}
